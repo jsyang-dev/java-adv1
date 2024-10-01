@@ -3,8 +3,6 @@ package thread.control.join;
 import static util.MyLogger.*;
 import static util.ThreadUtils.*;
 
-import util.ThreadUtils;
-
 public class JoinMainV0 {
 	public static void main(String[] args) {
 		log("start");
